@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Replace 'YOUR_TOKEN_HERE' with your actual bot token
-BOT_TOKEN = '1114907949:AAFiJ-iWmImrGbaCGhUcRHDWjvgclWWDyfI'
+BOT_TOKEN = '5177134620:AAGdqJatybqEikejXGqAuBYiu0pmnYRGt_Q'
 
 
 async def start(update: Update, context: CallbackContext) -> None:
