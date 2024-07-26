@@ -1,4 +1,4 @@
-python-telegram-bot==20.0a1
-rembg==2.0.0
-Pillow==9.1.1
-opencv-python==4.5.3.56
+python-telegram-bot
+rembg
+Pillow
+opencv-python
