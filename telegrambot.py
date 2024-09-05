@@ -10,7 +10,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 # Replace 'YOUR_TOKEN_HERE' with your actual bot token
-BOT_TOKEN = 'YOUR_TOKEN_HERE'
+BOT_TOKEN = '7289833807:AAFOqKJCMDlr2aIdiGVv-L6AYmlLRsQEprQ'
 
 # Channel username and link
 CHANNEL_USERNAME = '@xsmind'
